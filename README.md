@@ -154,14 +154,6 @@ print(f"Predicted pKd: {predicted_pKd:.2f}")
 - **BindingDB**: https://www.bindingdb.org/ (REST API)
 - **ChEMBL**: https://www.ebi.ac.uk/chembl/
 
-## Citation
-
-If you use this analysis in your research, please cite:
-
-```
-[Citation to be added after publication]
-```
-
 ## License
 
 This code is released under the MIT License. Data from PDBbind, BindingDB, and ChEMBL are subject to their respective licenses.
